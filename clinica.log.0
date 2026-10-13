@@ -1,0 +1,876 @@
+sept 21, 2026 10:02:25 P. M. com.udb.clinica.util.LogUtil <clinit>
+INFORMACIÓN: === Sistema de logs inicializado ===
+sept 21, 2026 10:02:25 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Iniciando prueba del modelo
+sept 21, 2026 10:02:25 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Prueba del modelo finalizada con éxito
+sept 21, 2026 10:13:44 P. M. com.udb.clinica.util.LogUtil <clinit>
+INFORMACIÓN: === Sistema de logs inicializado ===
+sept 21, 2026 10:13:45 P. M. com.udb.clinica.util.LogUtil warn
+ADVERTENCIA: Duplicado detectado: El correo juan@udb.edu.sv ya está registrado
+sept 21, 2026 10:13:45 P. M. com.udb.clinica.util.LogUtil warn
+ADVERTENCIA: No encontrado: Paciente P999 no existe
+sept 21, 2026 10:13:45 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Prueba de excepciones finalizada con éxito
+sept 21, 2026 10:25:56 P. M. com.udb.clinica.util.LogUtil <clinit>
+INFORMACIÓN: === Sistema de logs inicializado ===
+sept 21, 2026 10:25:56 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ✅ Conexión exitosa a clinicaUDB en SVPRLT14174
+sept 21, 2026 10:25:56 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Prueba de conexión exitosa.
+sept 21, 2026 10:47:43 P. M. com.udb.clinica.util.LogUtil <clinit>
+INFORMACIÓN: === Sistema de logs inicializado ===
+sept 21, 2026 10:47:43 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ✅ Conexión exitosa a clinicaUDB en SVPRLT14174
+sept 21, 2026 10:47:44 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Código generado para paciente: P005
+sept 21, 2026 10:47:44 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ✅ Conexión exitosa a clinicaUDB en SVPRLT14174
+sept 21, 2026 10:47:44 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Código generado para doctor: D005
+sept 21, 2026 10:47:44 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ✅ Conexión exitosa a clinicaUDB en SVPRLT14174
+sept 21, 2026 10:47:44 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Código generado para cita: C005
+sept 21, 2026 10:47:45 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ✅ Conexión exitosa a clinicaUDB en SVPRLT14174
+sept 21, 2026 10:47:45 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Código generado para paciente: P005
+sept 21, 2026 10:47:45 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ✅ Conexión exitosa a clinicaUDB en SVPRLT14174
+sept 21, 2026 10:47:45 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Código generado para paciente: P005
+sept 21, 2026 10:47:45 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ✅ Conexión exitosa a clinicaUDB en SVPRLT14174
+sept 21, 2026 10:47:45 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Código generado para paciente: P005
+sept 21, 2026 10:47:46 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ✅ Conexión exitosa a clinicaUDB en SVPRLT14174
+sept 21, 2026 10:47:46 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Código generado para paciente: P005
+sept 21, 2026 10:47:46 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ✅ Conexión exitosa a clinicaUDB en SVPRLT14174
+sept 21, 2026 10:47:46 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Código generado para paciente: P005
+sept 21, 2026 10:47:46 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Prueba de GeneradorCodigo finalizada.
+sept 21, 2026 10:51:13 P. M. com.udb.clinica.util.LogUtil <clinit>
+INFORMACIÓN: === Sistema de logs inicializado ===
+sept 21, 2026 10:51:13 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ✅ Conexión exitosa a clinicaUDB en SVPRLT14174
+sept 21, 2026 10:51:13 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Código generado para paciente: P005
+sept 21, 2026 10:51:13 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Código generado para doctor: D005
+sept 21, 2026 10:51:13 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Código generado para cita: C005
+sept 21, 2026 10:51:13 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Código generado para paciente: P005
+sept 21, 2026 10:51:13 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Código generado para paciente: P005
+sept 21, 2026 10:51:13 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Código generado para paciente: P005
+sept 21, 2026 10:51:13 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Código generado para paciente: P005
+sept 21, 2026 10:51:13 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Código generado para paciente: P005
+sept 21, 2026 10:51:13 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Prueba de GeneradorCodigo finalizada.
+sept 21, 2026 11:02:52 P. M. com.udb.clinica.util.LogUtil <clinit>
+INFORMACIÓN: === Sistema de logs inicializado ===
+sept 21, 2026 11:02:52 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ✅ Conexión exitosa a clinicaUDB en SVPRLT14174
+sept 21, 2026 11:02:52 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 pacientes.
+sept 21, 2026 11:02:52 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Código generado para paciente: P005
+sept 21, 2026 11:02:52 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Paciente insertado: P005 - Carlos Test
+sept 21, 2026 11:02:52 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Paciente actualizado: P005
+sept 21, 2026 11:02:52 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Paciente eliminado: P005
+sept 21, 2026 11:10:12 P. M. com.udb.clinica.util.LogUtil <clinit>
+INFORMACIÓN: === Sistema de logs inicializado ===
+sept 21, 2026 11:10:12 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ✅ Conexión exitosa a clinicaUDB en SVPRLT14174
+sept 21, 2026 11:10:12 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 doctores.
+sept 21, 2026 11:10:12 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listadas 4 citas (listar todas las citas).
+sept 21, 2026 11:10:12 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Código generado para cita: C005
+sept 21, 2026 11:10:12 P. M. com.udb.clinica.util.LogUtil error
+GRAVE: Error SQL en verificar choque de horario [código 402]: The data types time and datetime are incompatible in the equal to operator.
+com.microsoft.sqlserver.jdbc.SQLServerException: The data types time and datetime are incompatible in the equal to operator.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:356)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1927)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:764)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:663)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:7832)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:5024)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:364)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:282)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.executeQuery(SQLServerPreparedStatement.java:577)
+	at com.udb.clinica.dao.CitaDAOImpl.hayChoqueDeHorario(CitaDAOImpl.java:386)
+	at com.udb.clinica.dao.CitaDAOImpl.insertar(CitaDAOImpl.java:149)
+	at com.udb.clinica.PruebaDoctorCitaDAO.main(PruebaDoctorCitaDAO.java:41)
+
+sept 21, 2026 11:12:40 P. M. com.udb.clinica.util.LogUtil <clinit>
+INFORMACIÓN: === Sistema de logs inicializado ===
+sept 21, 2026 11:12:40 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ✅ Conexión exitosa a clinicaUDB en SVPRLT14174
+sept 21, 2026 11:12:40 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 doctores.
+sept 21, 2026 11:12:40 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listadas 4 citas (listar todas las citas).
+sept 21, 2026 11:12:40 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Código generado para cita: C005
+sept 21, 2026 11:12:40 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Cita insertada: C005
+sept 21, 2026 11:12:40 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Código generado para cita: C006
+sept 21, 2026 11:12:40 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listadas 2 citas (listar citas del doctor D002).
+sept 21, 2026 11:12:40 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Cita eliminada: C005
+sept 21, 2026 11:32:29 P. M. com.udb.clinica.util.LogUtil <clinit>
+INFORMACIÓN: === Sistema de logs inicializado ===
+sept 21, 2026 11:32:29 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ========== INICIANDO CLÍNICA UDB ==========
+sept 21, 2026 11:41:01 P. M. com.udb.clinica.util.LogUtil <clinit>
+INFORMACIÓN: === Sistema de logs inicializado ===
+sept 21, 2026 11:41:01 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ========== INICIANDO CLÍNICA UDB ==========
+sept 21, 2026 11:41:01 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Look and Feel: Windows aplicado.
+sept 21, 2026 11:41:01 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Ventana principal abierta.
+sept 21, 2026 11:42:50 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Cerrando aplicación...
+sept 22, 2026 3:48:21 P. M. com.udb.clinica.util.LogUtil <clinit>
+INFORMACIÓN: === Sistema de logs inicializado ===
+sept 22, 2026 3:48:21 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ========== INICIANDO CLÍNICA UDB ==========
+sept 22, 2026 3:48:22 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Look and Feel: Windows aplicado.
+sept 22, 2026 3:48:22 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Ventana principal abierta.
+sept 22, 2026 3:48:28 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Cerrando aplicación...
+sept 22, 2026 3:50:29 P. M. com.udb.clinica.util.LogUtil <clinit>
+INFORMACIÓN: === Sistema de logs inicializado ===
+sept 22, 2026 3:50:29 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ========== INICIANDO CLÍNICA UDB ==========
+sept 22, 2026 3:50:30 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Look and Feel: Windows aplicado.
+sept 22, 2026 3:50:32 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ✅ Conexión exitosa a clinicaUDB en SVPRLT14174
+sept 22, 2026 3:50:32 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 pacientes.
+sept 22, 2026 3:50:32 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Tabla de pacientes cargada: 4 registros.
+sept 22, 2026 3:50:32 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Ventana principal abierta.
+sept 22, 2026 3:52:00 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Cerrando aplicación...
+sept 22, 2026 3:52:00 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Conexión cerrada correctamente.
+sept 22, 2026 3:52:30 P. M. com.udb.clinica.util.LogUtil <clinit>
+INFORMACIÓN: === Sistema de logs inicializado ===
+sept 22, 2026 3:52:30 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ========== INICIANDO CLÍNICA UDB ==========
+sept 22, 2026 3:52:31 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Look and Feel: Windows aplicado.
+sept 22, 2026 3:52:32 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ✅ Conexión exitosa a clinicaUDB en SVPRLT14174
+sept 22, 2026 3:52:32 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 pacientes.
+sept 22, 2026 3:52:32 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Tabla de pacientes cargada: 4 registros.
+sept 22, 2026 3:52:32 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Ventana principal abierta.
+sept 22, 2026 8:33:15 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Cerrando aplicación...
+sept 22, 2026 8:33:15 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Conexión cerrada correctamente.
+sept 23, 2026 5:21:37 P. M. com.udb.clinica.util.LogUtil <clinit>
+INFORMACIÓN: === Sistema de logs inicializado ===
+sept 23, 2026 5:21:37 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ========== INICIANDO CLÍNICA UDB ==========
+sept 23, 2026 5:21:38 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Look and Feel: Windows aplicado.
+sept 23, 2026 5:21:42 P. M. com.udb.clinica.util.LogUtil error
+GRAVE: ❌ Error al conectar a la BD: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+com.microsoft.sqlserver.jdbc.SQLServerException: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDriverError(SQLServerException.java:308)
+	at com.microsoft.sqlserver.jdbc.SQLServerException.convertConnectExceptionToSQLServerException(SQLServerException.java:399)
+	at com.microsoft.sqlserver.jdbc.SocketFinder.findSocket(IOBuffer.java:2618)
+	at com.microsoft.sqlserver.jdbc.TDSChannel.open(IOBuffer.java:743)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectHelper(SQLServerConnection.java:4352)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.login(SQLServerConnection.java:3937)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectInternal(SQLServerConnection.java:3700)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connect(SQLServerConnection.java:2385)
+	at com.microsoft.sqlserver.jdbc.SQLServerDriver.connect(SQLServerDriver.java:1453)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:613)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:199)
+	at com.udb.clinica.conexion.ConexionBD.getConexion(ConexionBD.java:137)
+	at com.udb.clinica.dao.PacienteDAOImpl.listarTodos(PacienteDAOImpl.java:212)
+	at com.udb.clinica.vista.PanelPaciente.cargarTabla(PanelPaciente.java:370)
+	at com.udb.clinica.vista.PanelPaciente.<init>(PanelPaciente.java:122)
+	at com.udb.clinica.vista.VentanaPrincipal.<init>(VentanaPrincipal.java:82)
+	at com.udb.clinica.vista.VentanaPrincipal$2.run(VentanaPrincipal.java:160)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:323)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:714)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:693)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+sept 23, 2026 5:21:42 P. M. com.udb.clinica.util.LogUtil error
+GRAVE: Error SQL en listar pacientes [código 0]: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+com.microsoft.sqlserver.jdbc.SQLServerException: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDriverError(SQLServerException.java:308)
+	at com.microsoft.sqlserver.jdbc.SQLServerException.convertConnectExceptionToSQLServerException(SQLServerException.java:399)
+	at com.microsoft.sqlserver.jdbc.SocketFinder.findSocket(IOBuffer.java:2618)
+	at com.microsoft.sqlserver.jdbc.TDSChannel.open(IOBuffer.java:743)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectHelper(SQLServerConnection.java:4352)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.login(SQLServerConnection.java:3937)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectInternal(SQLServerConnection.java:3700)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connect(SQLServerConnection.java:2385)
+	at com.microsoft.sqlserver.jdbc.SQLServerDriver.connect(SQLServerDriver.java:1453)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:613)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:199)
+	at com.udb.clinica.conexion.ConexionBD.getConexion(ConexionBD.java:137)
+	at com.udb.clinica.dao.PacienteDAOImpl.listarTodos(PacienteDAOImpl.java:212)
+	at com.udb.clinica.vista.PanelPaciente.cargarTabla(PanelPaciente.java:370)
+	at com.udb.clinica.vista.PanelPaciente.<init>(PanelPaciente.java:122)
+	at com.udb.clinica.vista.VentanaPrincipal.<init>(VentanaPrincipal.java:82)
+	at com.udb.clinica.vista.VentanaPrincipal$2.run(VentanaPrincipal.java:160)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:323)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:714)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:693)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+sept 23, 2026 5:21:47 P. M. com.udb.clinica.util.LogUtil error
+GRAVE: ❌ Error al conectar a la BD: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+com.microsoft.sqlserver.jdbc.SQLServerException: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDriverError(SQLServerException.java:308)
+	at com.microsoft.sqlserver.jdbc.SQLServerException.convertConnectExceptionToSQLServerException(SQLServerException.java:399)
+	at com.microsoft.sqlserver.jdbc.SocketFinder.findSocket(IOBuffer.java:2618)
+	at com.microsoft.sqlserver.jdbc.TDSChannel.open(IOBuffer.java:743)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectHelper(SQLServerConnection.java:4352)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.login(SQLServerConnection.java:3937)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectInternal(SQLServerConnection.java:3700)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connect(SQLServerConnection.java:2385)
+	at com.microsoft.sqlserver.jdbc.SQLServerDriver.connect(SQLServerDriver.java:1453)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:613)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:199)
+	at com.udb.clinica.conexion.ConexionBD.getConexion(ConexionBD.java:137)
+	at com.udb.clinica.dao.DoctorDAOImpl.listarTodos(DoctorDAOImpl.java:127)
+	at com.udb.clinica.vista.PanelDoctor.cargarTabla(PanelDoctor.java:281)
+	at com.udb.clinica.vista.PanelDoctor.<init>(PanelDoctor.java:105)
+	at com.udb.clinica.vista.VentanaPrincipal.<init>(VentanaPrincipal.java:83)
+	at com.udb.clinica.vista.VentanaPrincipal$2.run(VentanaPrincipal.java:160)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:323)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:714)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:693)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+sept 23, 2026 5:21:47 P. M. com.udb.clinica.util.LogUtil error
+GRAVE: Error SQL en listar doctores [código 0]: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+com.microsoft.sqlserver.jdbc.SQLServerException: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDriverError(SQLServerException.java:308)
+	at com.microsoft.sqlserver.jdbc.SQLServerException.convertConnectExceptionToSQLServerException(SQLServerException.java:399)
+	at com.microsoft.sqlserver.jdbc.SocketFinder.findSocket(IOBuffer.java:2618)
+	at com.microsoft.sqlserver.jdbc.TDSChannel.open(IOBuffer.java:743)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectHelper(SQLServerConnection.java:4352)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.login(SQLServerConnection.java:3937)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectInternal(SQLServerConnection.java:3700)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connect(SQLServerConnection.java:2385)
+	at com.microsoft.sqlserver.jdbc.SQLServerDriver.connect(SQLServerDriver.java:1453)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:613)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:199)
+	at com.udb.clinica.conexion.ConexionBD.getConexion(ConexionBD.java:137)
+	at com.udb.clinica.dao.DoctorDAOImpl.listarTodos(DoctorDAOImpl.java:127)
+	at com.udb.clinica.vista.PanelDoctor.cargarTabla(PanelDoctor.java:281)
+	at com.udb.clinica.vista.PanelDoctor.<init>(PanelDoctor.java:105)
+	at com.udb.clinica.vista.VentanaPrincipal.<init>(VentanaPrincipal.java:83)
+	at com.udb.clinica.vista.VentanaPrincipal$2.run(VentanaPrincipal.java:160)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:323)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:714)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:693)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+sept 23, 2026 5:21:48 P. M. com.udb.clinica.util.LogUtil error
+GRAVE: ❌ Error al conectar a la BD: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+com.microsoft.sqlserver.jdbc.SQLServerException: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDriverError(SQLServerException.java:308)
+	at com.microsoft.sqlserver.jdbc.SQLServerException.convertConnectExceptionToSQLServerException(SQLServerException.java:399)
+	at com.microsoft.sqlserver.jdbc.SocketFinder.findSocket(IOBuffer.java:2618)
+	at com.microsoft.sqlserver.jdbc.TDSChannel.open(IOBuffer.java:743)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectHelper(SQLServerConnection.java:4352)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.login(SQLServerConnection.java:3937)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectInternal(SQLServerConnection.java:3700)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connect(SQLServerConnection.java:2385)
+	at com.microsoft.sqlserver.jdbc.SQLServerDriver.connect(SQLServerDriver.java:1453)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:613)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:199)
+	at com.udb.clinica.conexion.ConexionBD.getConexion(ConexionBD.java:137)
+	at com.udb.clinica.dao.PacienteDAOImpl.listarTodos(PacienteDAOImpl.java:212)
+	at com.udb.clinica.vista.PanelCita.cargarCombos(PanelCita.java:329)
+	at com.udb.clinica.vista.PanelCita.<init>(PanelCita.java:119)
+	at com.udb.clinica.vista.VentanaPrincipal.<init>(VentanaPrincipal.java:84)
+	at com.udb.clinica.vista.VentanaPrincipal$2.run(VentanaPrincipal.java:160)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:323)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:714)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:693)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+sept 23, 2026 5:21:48 P. M. com.udb.clinica.util.LogUtil error
+GRAVE: Error SQL en listar pacientes [código 0]: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+com.microsoft.sqlserver.jdbc.SQLServerException: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDriverError(SQLServerException.java:308)
+	at com.microsoft.sqlserver.jdbc.SQLServerException.convertConnectExceptionToSQLServerException(SQLServerException.java:399)
+	at com.microsoft.sqlserver.jdbc.SocketFinder.findSocket(IOBuffer.java:2618)
+	at com.microsoft.sqlserver.jdbc.TDSChannel.open(IOBuffer.java:743)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectHelper(SQLServerConnection.java:4352)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.login(SQLServerConnection.java:3937)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectInternal(SQLServerConnection.java:3700)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connect(SQLServerConnection.java:2385)
+	at com.microsoft.sqlserver.jdbc.SQLServerDriver.connect(SQLServerDriver.java:1453)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:613)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:199)
+	at com.udb.clinica.conexion.ConexionBD.getConexion(ConexionBD.java:137)
+	at com.udb.clinica.dao.PacienteDAOImpl.listarTodos(PacienteDAOImpl.java:212)
+	at com.udb.clinica.vista.PanelCita.cargarCombos(PanelCita.java:329)
+	at com.udb.clinica.vista.PanelCita.<init>(PanelCita.java:119)
+	at com.udb.clinica.vista.VentanaPrincipal.<init>(VentanaPrincipal.java:84)
+	at com.udb.clinica.vista.VentanaPrincipal$2.run(VentanaPrincipal.java:160)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:323)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:714)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:693)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+sept 23, 2026 5:21:49 P. M. com.udb.clinica.util.LogUtil error
+GRAVE: ❌ Error al conectar a la BD: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+com.microsoft.sqlserver.jdbc.SQLServerException: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDriverError(SQLServerException.java:308)
+	at com.microsoft.sqlserver.jdbc.SQLServerException.convertConnectExceptionToSQLServerException(SQLServerException.java:399)
+	at com.microsoft.sqlserver.jdbc.SocketFinder.findSocket(IOBuffer.java:2618)
+	at com.microsoft.sqlserver.jdbc.TDSChannel.open(IOBuffer.java:743)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectHelper(SQLServerConnection.java:4352)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.login(SQLServerConnection.java:3937)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectInternal(SQLServerConnection.java:3700)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connect(SQLServerConnection.java:2385)
+	at com.microsoft.sqlserver.jdbc.SQLServerDriver.connect(SQLServerDriver.java:1453)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:613)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:199)
+	at com.udb.clinica.conexion.ConexionBD.getConexion(ConexionBD.java:137)
+	at com.udb.clinica.dao.CitaDAOImpl.ejecutarListado(CitaDAOImpl.java:451)
+	at com.udb.clinica.dao.CitaDAOImpl.listarTodos(CitaDAOImpl.java:245)
+	at com.udb.clinica.vista.PanelCita.cargarTabla(PanelCita.java:355)
+	at com.udb.clinica.vista.PanelCita.<init>(PanelCita.java:120)
+	at com.udb.clinica.vista.VentanaPrincipal.<init>(VentanaPrincipal.java:84)
+	at com.udb.clinica.vista.VentanaPrincipal$2.run(VentanaPrincipal.java:160)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:323)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:714)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:693)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+sept 23, 2026 5:21:49 P. M. com.udb.clinica.util.LogUtil error
+GRAVE: Error SQL en listar todas las citas [código 0]: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+com.microsoft.sqlserver.jdbc.SQLServerException: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDriverError(SQLServerException.java:308)
+	at com.microsoft.sqlserver.jdbc.SQLServerException.convertConnectExceptionToSQLServerException(SQLServerException.java:399)
+	at com.microsoft.sqlserver.jdbc.SocketFinder.findSocket(IOBuffer.java:2618)
+	at com.microsoft.sqlserver.jdbc.TDSChannel.open(IOBuffer.java:743)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectHelper(SQLServerConnection.java:4352)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.login(SQLServerConnection.java:3937)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectInternal(SQLServerConnection.java:3700)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connect(SQLServerConnection.java:2385)
+	at com.microsoft.sqlserver.jdbc.SQLServerDriver.connect(SQLServerDriver.java:1453)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:613)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:199)
+	at com.udb.clinica.conexion.ConexionBD.getConexion(ConexionBD.java:137)
+	at com.udb.clinica.dao.CitaDAOImpl.ejecutarListado(CitaDAOImpl.java:451)
+	at com.udb.clinica.dao.CitaDAOImpl.listarTodos(CitaDAOImpl.java:245)
+	at com.udb.clinica.vista.PanelCita.cargarTabla(PanelCita.java:355)
+	at com.udb.clinica.vista.PanelCita.<init>(PanelCita.java:120)
+	at com.udb.clinica.vista.VentanaPrincipal.<init>(VentanaPrincipal.java:84)
+	at com.udb.clinica.vista.VentanaPrincipal$2.run(VentanaPrincipal.java:160)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:323)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:714)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:693)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+sept 23, 2026 5:21:50 P. M. com.udb.clinica.util.LogUtil error
+GRAVE: ❌ Error al conectar a la BD: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+com.microsoft.sqlserver.jdbc.SQLServerException: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDriverError(SQLServerException.java:308)
+	at com.microsoft.sqlserver.jdbc.SQLServerException.convertConnectExceptionToSQLServerException(SQLServerException.java:399)
+	at com.microsoft.sqlserver.jdbc.SocketFinder.findSocket(IOBuffer.java:2618)
+	at com.microsoft.sqlserver.jdbc.TDSChannel.open(IOBuffer.java:743)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectHelper(SQLServerConnection.java:4352)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.login(SQLServerConnection.java:3937)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectInternal(SQLServerConnection.java:3700)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connect(SQLServerConnection.java:2385)
+	at com.microsoft.sqlserver.jdbc.SQLServerDriver.connect(SQLServerDriver.java:1453)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:613)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:199)
+	at com.udb.clinica.conexion.ConexionBD.getConexion(ConexionBD.java:137)
+	at com.udb.clinica.dao.DoctorDAOImpl.listarTodos(DoctorDAOImpl.java:127)
+	at com.udb.clinica.vista.PanelReportes.cargarDoctoresCombo(PanelReportes.java:302)
+	at com.udb.clinica.vista.PanelReportes.configurarEventos(PanelReportes.java:290)
+	at com.udb.clinica.vista.PanelReportes.<init>(PanelReportes.java:101)
+	at com.udb.clinica.vista.VentanaPrincipal.<init>(VentanaPrincipal.java:85)
+	at com.udb.clinica.vista.VentanaPrincipal$2.run(VentanaPrincipal.java:160)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:323)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:714)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:693)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+sept 23, 2026 5:21:50 P. M. com.udb.clinica.util.LogUtil error
+GRAVE: Error SQL en listar doctores [código 0]: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+com.microsoft.sqlserver.jdbc.SQLServerException: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDriverError(SQLServerException.java:308)
+	at com.microsoft.sqlserver.jdbc.SQLServerException.convertConnectExceptionToSQLServerException(SQLServerException.java:399)
+	at com.microsoft.sqlserver.jdbc.SocketFinder.findSocket(IOBuffer.java:2618)
+	at com.microsoft.sqlserver.jdbc.TDSChannel.open(IOBuffer.java:743)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectHelper(SQLServerConnection.java:4352)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.login(SQLServerConnection.java:3937)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectInternal(SQLServerConnection.java:3700)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connect(SQLServerConnection.java:2385)
+	at com.microsoft.sqlserver.jdbc.SQLServerDriver.connect(SQLServerDriver.java:1453)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:613)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:199)
+	at com.udb.clinica.conexion.ConexionBD.getConexion(ConexionBD.java:137)
+	at com.udb.clinica.dao.DoctorDAOImpl.listarTodos(DoctorDAOImpl.java:127)
+	at com.udb.clinica.vista.PanelReportes.cargarDoctoresCombo(PanelReportes.java:302)
+	at com.udb.clinica.vista.PanelReportes.configurarEventos(PanelReportes.java:290)
+	at com.udb.clinica.vista.PanelReportes.<init>(PanelReportes.java:101)
+	at com.udb.clinica.vista.VentanaPrincipal.<init>(VentanaPrincipal.java:85)
+	at com.udb.clinica.vista.VentanaPrincipal$2.run(VentanaPrincipal.java:160)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:323)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:714)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:693)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+sept 23, 2026 5:21:58 P. M. com.udb.clinica.util.LogUtil error
+GRAVE: ❌ Error al conectar a la BD: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+com.microsoft.sqlserver.jdbc.SQLServerException: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDriverError(SQLServerException.java:308)
+	at com.microsoft.sqlserver.jdbc.SQLServerException.convertConnectExceptionToSQLServerException(SQLServerException.java:399)
+	at com.microsoft.sqlserver.jdbc.SocketFinder.findSocket(IOBuffer.java:2618)
+	at com.microsoft.sqlserver.jdbc.TDSChannel.open(IOBuffer.java:743)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectHelper(SQLServerConnection.java:4352)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.login(SQLServerConnection.java:3937)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectInternal(SQLServerConnection.java:3700)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connect(SQLServerConnection.java:2385)
+	at com.microsoft.sqlserver.jdbc.SQLServerDriver.connect(SQLServerDriver.java:1453)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:613)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:199)
+	at com.udb.clinica.conexion.ConexionBD.getConexion(ConexionBD.java:137)
+	at com.udb.clinica.dao.PacienteDAOImpl.contarPorTipo(PacienteDAOImpl.java:313)
+	at com.udb.clinica.vista.PanelReportes.cargarR2(PanelReportes.java:362)
+	at com.udb.clinica.vista.PanelReportes.<init>(PanelReportes.java:102)
+	at com.udb.clinica.vista.VentanaPrincipal.<init>(VentanaPrincipal.java:85)
+	at com.udb.clinica.vista.VentanaPrincipal$2.run(VentanaPrincipal.java:160)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:323)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:714)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:693)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+sept 23, 2026 5:21:58 P. M. com.udb.clinica.util.LogUtil error
+GRAVE: Error SQL en contar pacientes por tipo [código 0]: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+com.microsoft.sqlserver.jdbc.SQLServerException: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDriverError(SQLServerException.java:308)
+	at com.microsoft.sqlserver.jdbc.SQLServerException.convertConnectExceptionToSQLServerException(SQLServerException.java:399)
+	at com.microsoft.sqlserver.jdbc.SocketFinder.findSocket(IOBuffer.java:2618)
+	at com.microsoft.sqlserver.jdbc.TDSChannel.open(IOBuffer.java:743)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectHelper(SQLServerConnection.java:4352)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.login(SQLServerConnection.java:3937)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectInternal(SQLServerConnection.java:3700)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connect(SQLServerConnection.java:2385)
+	at com.microsoft.sqlserver.jdbc.SQLServerDriver.connect(SQLServerDriver.java:1453)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:613)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:199)
+	at com.udb.clinica.conexion.ConexionBD.getConexion(ConexionBD.java:137)
+	at com.udb.clinica.dao.PacienteDAOImpl.contarPorTipo(PacienteDAOImpl.java:313)
+	at com.udb.clinica.vista.PanelReportes.cargarR2(PanelReportes.java:362)
+	at com.udb.clinica.vista.PanelReportes.<init>(PanelReportes.java:102)
+	at com.udb.clinica.vista.VentanaPrincipal.<init>(VentanaPrincipal.java:85)
+	at com.udb.clinica.vista.VentanaPrincipal$2.run(VentanaPrincipal.java:160)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:323)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:714)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:693)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+sept 23, 2026 5:22:05 P. M. com.udb.clinica.util.LogUtil error
+GRAVE: ❌ Error al conectar a la BD: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+com.microsoft.sqlserver.jdbc.SQLServerException: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDriverError(SQLServerException.java:308)
+	at com.microsoft.sqlserver.jdbc.SQLServerException.convertConnectExceptionToSQLServerException(SQLServerException.java:399)
+	at com.microsoft.sqlserver.jdbc.SocketFinder.findSocket(IOBuffer.java:2618)
+	at com.microsoft.sqlserver.jdbc.TDSChannel.open(IOBuffer.java:743)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectHelper(SQLServerConnection.java:4352)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.login(SQLServerConnection.java:3937)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectInternal(SQLServerConnection.java:3700)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connect(SQLServerConnection.java:2385)
+	at com.microsoft.sqlserver.jdbc.SQLServerDriver.connect(SQLServerDriver.java:1453)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:613)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:199)
+	at com.udb.clinica.conexion.ConexionBD.getConexion(ConexionBD.java:137)
+	at com.udb.clinica.dao.CitaDAOImpl.contarPorEstado(CitaDAOImpl.java:420)
+	at com.udb.clinica.vista.PanelReportes.cargarR3(PanelReportes.java:385)
+	at com.udb.clinica.vista.PanelReportes.<init>(PanelReportes.java:103)
+	at com.udb.clinica.vista.VentanaPrincipal.<init>(VentanaPrincipal.java:85)
+	at com.udb.clinica.vista.VentanaPrincipal$2.run(VentanaPrincipal.java:160)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:323)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:714)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:693)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+sept 23, 2026 5:22:05 P. M. com.udb.clinica.util.LogUtil error
+GRAVE: Error SQL en contar citas por estado [código 0]: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+com.microsoft.sqlserver.jdbc.SQLServerException: No se pudo realizar la conexión TCP/IP al host localhostS, puerto 1433. Error: "localhostS. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDriverError(SQLServerException.java:308)
+	at com.microsoft.sqlserver.jdbc.SQLServerException.convertConnectExceptionToSQLServerException(SQLServerException.java:399)
+	at com.microsoft.sqlserver.jdbc.SocketFinder.findSocket(IOBuffer.java:2618)
+	at com.microsoft.sqlserver.jdbc.TDSChannel.open(IOBuffer.java:743)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectHelper(SQLServerConnection.java:4352)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.login(SQLServerConnection.java:3937)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectInternal(SQLServerConnection.java:3700)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connect(SQLServerConnection.java:2385)
+	at com.microsoft.sqlserver.jdbc.SQLServerDriver.connect(SQLServerDriver.java:1453)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:613)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:199)
+	at com.udb.clinica.conexion.ConexionBD.getConexion(ConexionBD.java:137)
+	at com.udb.clinica.dao.CitaDAOImpl.contarPorEstado(CitaDAOImpl.java:420)
+	at com.udb.clinica.vista.PanelReportes.cargarR3(PanelReportes.java:385)
+	at com.udb.clinica.vista.PanelReportes.<init>(PanelReportes.java:103)
+	at com.udb.clinica.vista.VentanaPrincipal.<init>(VentanaPrincipal.java:85)
+	at com.udb.clinica.vista.VentanaPrincipal$2.run(VentanaPrincipal.java:160)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:323)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:714)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:693)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+sept 23, 2026 5:22:06 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Ventana principal abierta.
+sept 23, 2026 5:22:09 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Cerrando aplicación...
+sept 23, 2026 5:22:52 P. M. com.udb.clinica.util.LogUtil <clinit>
+INFORMACIÓN: === Sistema de logs inicializado ===
+sept 23, 2026 5:22:52 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ========== INICIANDO CLÍNICA UDB ==========
+sept 23, 2026 5:22:53 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Look and Feel: Windows aplicado.
+sept 23, 2026 5:22:55 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ✅ Conexión exitosa a clinicaUDB en localhost
+sept 23, 2026 5:22:55 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 pacientes.
+sept 23, 2026 5:22:55 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Tabla de pacientes cargada: 4 registros.
+sept 23, 2026 5:22:55 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 doctores.
+sept 23, 2026 5:22:55 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Tabla de doctores cargada: 4 registros.
+sept 23, 2026 5:22:55 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 pacientes.
+sept 23, 2026 5:22:55 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 doctores.
+sept 23, 2026 5:22:55 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Combos cargados: 4 pacientes, 4 doctores.
+sept 23, 2026 5:22:55 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listadas 4 citas (listar todas las citas).
+sept 23, 2026 5:22:55 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Tabla de citas cargada: 4 registros.
+sept 23, 2026 5:22:55 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 doctores.
+sept 23, 2026 5:22:55 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Reporte R2: pacientes por tipo generado (4 filas).
+sept 23, 2026 5:22:55 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Reporte R3: citas por estado generado (3 filas).
+sept 23, 2026 5:22:55 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Ventana principal abierta.
+sept 23, 2026 5:23:20 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Cerrando aplicación...
+sept 23, 2026 5:23:20 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Conexión cerrada correctamente.
+sept 23, 2026 5:35:09 P. M. com.udb.clinica.util.LogUtil <clinit>
+INFORMACIÓN: === Sistema de logs inicializado ===
+sept 23, 2026 5:35:09 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ========== INICIANDO CLÍNICA UDB ==========
+sept 23, 2026 5:35:09 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Look and Feel: Windows aplicado.
+sept 23, 2026 5:35:11 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ✅ Conexión exitosa a clinicaUDB en localhost
+sept 23, 2026 5:35:11 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 pacientes.
+sept 23, 2026 5:35:11 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Tabla de pacientes cargada: 4 registros.
+sept 23, 2026 5:35:11 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 doctores.
+sept 23, 2026 5:35:11 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Tabla de doctores cargada: 4 registros.
+sept 23, 2026 5:35:11 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 pacientes.
+sept 23, 2026 5:35:11 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 doctores.
+sept 23, 2026 5:35:11 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Combos cargados: 4 pacientes, 4 doctores.
+sept 23, 2026 5:35:11 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listadas 4 citas (listar todas las citas).
+sept 23, 2026 5:35:11 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Tabla de citas cargada: 4 registros.
+sept 23, 2026 5:35:11 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 doctores.
+sept 23, 2026 5:35:11 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Reporte R2: pacientes por tipo generado (4 filas).
+sept 23, 2026 5:35:11 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Reporte R3: citas por estado generado (3 filas).
+sept 23, 2026 5:35:11 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Ventana principal abierta.
+sept 23, 2026 5:38:13 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Cerrando aplicación...
+sept 23, 2026 5:38:13 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Conexión cerrada correctamente.
+sept 23, 2026 9:35:34 P. M. com.udb.clinica.util.LogUtil <clinit>
+INFORMACIÓN: === Sistema de logs inicializado ===
+sept 23, 2026 9:35:34 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ========== INICIANDO CLÍNICA UDB ==========
+sept 23, 2026 9:35:34 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Look and Feel: Windows aplicado.
+sept 23, 2026 9:35:36 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ✅ Conexión exitosa a clinicaUDB en localhost
+sept 23, 2026 9:35:36 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 pacientes.
+sept 23, 2026 9:35:36 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Tabla de pacientes cargada: 4 registros.
+sept 23, 2026 9:35:37 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 doctores.
+sept 23, 2026 9:35:37 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Tabla de doctores cargada: 4 registros.
+sept 23, 2026 9:35:37 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 pacientes.
+sept 23, 2026 9:35:37 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 doctores.
+sept 23, 2026 9:35:37 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Combos cargados: 4 pacientes, 4 doctores.
+sept 23, 2026 9:35:37 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listadas 4 citas (listar todas las citas).
+sept 23, 2026 9:35:37 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Tabla de citas cargada: 4 registros.
+sept 23, 2026 9:35:37 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 doctores.
+sept 23, 2026 9:35:37 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Reporte R2: pacientes por tipo generado (4 filas).
+sept 23, 2026 9:35:37 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Reporte R3: citas por estado generado (3 filas).
+sept 23, 2026 9:35:37 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Ventana principal abierta.
+sept 23, 2026 9:37:08 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Doctor actualizado: D004
+sept 23, 2026 9:37:12 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 doctores.
+sept 23, 2026 9:37:12 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Tabla de doctores cargada: 4 registros.
+sept 23, 2026 9:38:24 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Cerrando aplicación...
+sept 23, 2026 9:38:24 P. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Conexión cerrada correctamente.
+sept 24, 2026 10:31:03 A. M. com.udb.clinica.util.LogUtil <clinit>
+INFORMACIÓN: === Sistema de logs inicializado ===
+sept 24, 2026 10:31:04 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ========== INICIANDO CLÍNICA UDB ==========
+sept 24, 2026 10:31:04 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Look and Feel: Windows aplicado.
+sept 24, 2026 10:31:05 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ✅ Conexión exitosa a clinicaUDB en localhost
+sept 24, 2026 10:31:05 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 pacientes.
+sept 24, 2026 10:31:05 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Tabla de pacientes cargada: 4 registros.
+sept 24, 2026 10:31:05 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 doctores.
+sept 24, 2026 10:31:05 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Tabla de doctores cargada: 4 registros.
+sept 24, 2026 10:31:06 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 pacientes.
+sept 24, 2026 10:31:06 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 doctores.
+sept 24, 2026 10:31:06 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Combos cargados: 4 pacientes, 4 doctores.
+sept 24, 2026 10:31:06 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listadas 4 citas (listar todas las citas).
+sept 24, 2026 10:31:06 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Tabla de citas cargada: 4 registros.
+sept 24, 2026 10:31:06 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 doctores.
+sept 24, 2026 10:31:06 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Reporte R2: pacientes por tipo generado (4 filas).
+sept 24, 2026 10:31:06 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Reporte R3: citas por estado generado (3 filas).
+sept 24, 2026 10:31:06 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Ventana principal abierta.
+sept 24, 2026 10:31:19 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Código generado para paciente: P005
+sept 24, 2026 10:31:25 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Código generado para doctor: D005
+sept 24, 2026 10:34:04 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Cerrando aplicación...
+sept 24, 2026 10:34:04 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Conexión cerrada correctamente.
+sept 24, 2026 11:07:09 A. M. com.udb.clinica.util.LogUtil <clinit>
+INFORMACIÓN: === Sistema de logs inicializado ===
+sept 24, 2026 11:07:09 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ========== INICIANDO CLÍNICA UDB ==========
+sept 24, 2026 11:07:10 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Look and Feel: Windows aplicado.
+sept 24, 2026 11:07:11 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ✅ Conexión exitosa a clinicaUDB en localhost
+sept 24, 2026 11:07:11 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 pacientes.
+sept 24, 2026 11:07:11 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Tabla de pacientes cargada: 4 registros.
+sept 24, 2026 11:07:11 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 doctores.
+sept 24, 2026 11:07:11 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Tabla de doctores cargada: 4 registros.
+sept 24, 2026 11:07:11 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 pacientes.
+sept 24, 2026 11:07:11 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 doctores.
+sept 24, 2026 11:07:11 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Combos cargados: 4 pacientes, 4 doctores.
+sept 24, 2026 11:07:11 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listadas 4 citas (listar todas las citas).
+sept 24, 2026 11:07:11 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Tabla de citas cargada: 4 registros.
+sept 24, 2026 11:07:12 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 doctores.
+sept 24, 2026 11:07:12 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Reporte R2: pacientes por tipo generado (4 filas).
+sept 24, 2026 11:07:12 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Reporte R3: citas por estado generado (3 filas).
+sept 24, 2026 11:07:12 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Ventana principal abierta.
+sept 24, 2026 11:08:56 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Doctor actualizado: D004
+sept 24, 2026 11:09:01 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 doctores.
+sept 24, 2026 11:09:01 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Tabla de doctores cargada: 4 registros.
+sept 24, 2026 11:16:09 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Código generado para paciente: P005
+sept 24, 2026 11:16:37 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Cerrando aplicación...
+sept 24, 2026 11:16:37 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Conexión cerrada correctamente.
+sept 24, 2026 11:27:48 A. M. com.udb.clinica.util.LogUtil <clinit>
+INFORMACIÓN: === Sistema de logs inicializado ===
+sept 24, 2026 11:27:49 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ========== INICIANDO CLÍNICA UDB ==========
+sept 24, 2026 11:27:49 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Look and Feel: Windows aplicado.
+sept 24, 2026 11:27:50 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: ✅ Conexión exitosa a clinicaUDB en localhost
+sept 24, 2026 11:27:50 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 pacientes.
+sept 24, 2026 11:27:50 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Tabla de pacientes cargada: 4 registros.
+sept 24, 2026 11:27:50 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 doctores.
+sept 24, 2026 11:27:50 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Tabla de doctores cargada: 4 registros.
+sept 24, 2026 11:27:50 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 pacientes.
+sept 24, 2026 11:27:50 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 doctores.
+sept 24, 2026 11:27:50 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Combos cargados: 4 pacientes, 4 doctores.
+sept 24, 2026 11:27:50 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listadas 4 citas (listar todas las citas).
+sept 24, 2026 11:27:50 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Tabla de citas cargada: 4 registros.
+sept 24, 2026 11:27:50 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Listados 4 doctores.
+sept 24, 2026 11:27:50 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Reporte R2: pacientes por tipo generado (4 filas).
+sept 24, 2026 11:27:50 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Reporte R3: citas por estado generado (3 filas).
+sept 24, 2026 11:27:50 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Ventana principal abierta.
+sept 24, 2026 11:28:31 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Cerrando aplicación...
+sept 24, 2026 11:28:31 A. M. com.udb.clinica.util.LogUtil info
+INFORMACIÓN: Conexión cerrada correctamente.
